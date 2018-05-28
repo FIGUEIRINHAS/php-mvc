@@ -1,0 +1,86 @@
+body
+{
+    background-color: rgb(202, 221, 221);
+    height: 100%;
+    min-height: 35rem;
+    position: relative;
+    font-family: 'Source Sans Pro';
+    font-weight: 300;
+}
+
+.titre-post
+{
+    color: rgb(136, 80, 80);
+}
+
+.posts
+{
+    font-size: 1.0rem;    
+    margin: 0;
+    padding: 0;
+    margin-left: 25px;
+}
+
+.class-update
+{
+    margin-left: 40px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    padding:6px 0 6px 0;
+	font:bold 13px Arial;
+	background:#f5f5f5;
+	color:#555;
+	border-radius:2px;
+	width:100px;
+	border:1px solid #ccc;
+	box-shadow:1px 1px 3px #999;
+}
+
+.class-delete
+{
+    margin-left: 20px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    padding:6px 0 6px 0;
+	font:bold 13px Arial;
+	background:#f5f5f5;
+	color:#555;
+	border-radius:2px;
+	width:100px;
+	border:1px solid #ccc;
+	box-shadow:1px 1px 3px #999; 
+}
+
+.posts-col
+{
+    margin-left: 10%;
+}
+
+.add-comment
+{
+    margin-left: 10px;
+    font-size: 1.0rem;
+}
+
+.send
+{
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 1rem;
+}
+
+.test:hover {
+    background-color: rgb(203, 205, 207);
+    transform: scale(1.1);
+    transition: all .8s;
+}
+
+.test{
+    transition: all .4s;
+}
+
+.pd {
+    color: rgb(92, 138, 65);
+}

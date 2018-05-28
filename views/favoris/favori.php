@@ -1,0 +1,1 @@
+<p>Ajouté aux favoris</p>
